@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CanalCulturaVenezuela.ve" tvg-logo="https://culturavenezuela.com/wp-content/uploads/2021/07/cropped-Cierre-Alfa-SE.00_00_04_25.Imagen-fija003-150x150.png" group-title="Culture;Music",Canal Cultura Venezuela
+https://ythls.onrender.com/channel/UCMPPdsYmf-V6jukDtIfpM_A.m3u8
+#EXTINF:-1 tvg-id="TRV.ve" tvg-logo="https://i.ibb.co/Yt6qyjL/trv.png" group-title="General",TRV
+https://vcp3.myplaytv.com/trv/trv/playlist.m3u8
