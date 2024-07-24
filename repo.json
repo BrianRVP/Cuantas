@@ -3,6 +3,22 @@
     "plugins": 
     [
         {
+            "id": "PlayStation®TV",
+            "description": "<p>Movies, Series, Music and TV.<p>Everything in Just One Place.<p> ",
+            "author": "by PS3™ 4K Pro",
+            "homepage": "https://github.com/BrianRVP/Png-",                                       
+            "title": "MULTIPLATAFORMA®TV",            
+            "synopsis": "Entertainment System",
+            "version": "1.0",
+            "showtimeVersion": "4.8",
+            "type": "ecmascript",
+            "icon": "https://raw.githubusercontent.com/BrianRVP/Png-/9.0.2/Multi.png",
+            "category": "tv",
+            "apiversion": 2,
+            "downloadURL": "https://github.com/BrianRVP/Png-/releases/download/9.0.2/Multi.zip",
+            "popularity": 1
+        },
+        {
             "id": "shoutcast",
             "version": "0.3.1",
             "type": "ecmascript",
